@@ -1,5 +1,5 @@
 # simpledelay
-My project from Kadenze's Into to Audio Plugin Development online course. 
+My project from Kadenze's Intro to Audio Plugin Development online course. 
 
 This project relies on the JUCE framework to bootstrap the xcode project and provide build support for various audio plugin formats/platforms:
 https://juce.com/discover/projucer
