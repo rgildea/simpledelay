@@ -13,6 +13,6 @@ There are a few interesting files to point out:
 The processor is where the actual work of processing audio takes place. This is the main method for processing blocks of audio data:
 ```    void processBlock (AudioBuffer<float>&, MidiBuffer&) override; ```
 
-The editor is where you can define the user interface. This project focuses mainly on the processing, with minimal UI (no labels, no live updaing of UI controls).
+The editor is where you can define the user interface. This project focuses mainly on the processing, with minimal UI (no labels, no live updating of UI controls).
 
 Acknowledgements: Thanks to Kadenze and Jacob Penn for putting this course together! https://www.kadenze.com/courses/intro-to-audio-plugin-development
